@@ -15,4 +15,4 @@ A custom-built collaborative filtering recommendation engine created entirely fr
 
 ## Author
 **Bhuman Patel**  
-B.Tech Student, IIIT Vadodara
+B.Tech Student at IIIT Vadodara
