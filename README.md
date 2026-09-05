@@ -1,7 +1,7 @@
 # Collaborative Filtering Game Recommender
 
 ## Overview
-A custom-built collaborative filtering recommendation engine created entirely from scratch using Matrix Factorization and Gradient Descent. Rather than relying on high-level machine learning libraries, this project implements the underlying mathematical algorithms to predict user ratings for games like Phasmophobia, Pacify, Escape the Backrooms, and Monument Valley.
+A custom built collaborative filtering recommendation engine created entirely from scratch using Matrix Factorization and Gradient Descent. Rather than relying on high-level machine learning libraries, this project implements the underlying mathematical algorithms to predict user ratings for games like Phasmophobia, Pacify, Escape the Backrooms, and Monument Valley.
 
 ## Key Features
 * **Matrix Factorization:** Decomposed the user-item interaction matrix to extract latent features for both users and games.
